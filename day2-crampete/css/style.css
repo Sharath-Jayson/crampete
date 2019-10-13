@@ -1,0 +1,46 @@
+*{
+
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background-color: #fce38a;
+}
+
+#display{
+
+    font-size: 36px;
+    font-family: 'Lucida Sans', '', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn{
+    color:#fff;
+    background-color: #f38181;
+    padding: 12px;
+    border: 2px solid #f38181;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.btn:hover{
+    color:#fff;
+    background-color: #f16969;
+    padding: 12px;
+    border: 2px solid #f16969;
+    font-size: 20px;
+    transition: all 0.4s;
+
+}
+.btn-container{
+    text-align: center;
+}
+
+.paragraph-text{
+
+    font-size: 20px;
+    font-family: 'Lucida Sans', '', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
